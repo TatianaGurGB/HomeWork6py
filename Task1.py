@@ -8,7 +8,7 @@
 
 num = (input('Введите вещественное число '))
 sum = 0
-# for el in num:
+# for el in num:         # <-- первоначальное решение
 #     if el != '.':
 #         el = int(el)
 #         sum += el
